@@ -1,7 +1,7 @@
 showa
 =====
 
-**s**how/**h**ide **o**ne **w**ay or **a**nother  
+show/hide one way or another  
 
 ## Getting Started
 
